@@ -11,7 +11,7 @@ pod 'SnapEngageSDK'
 
 To install the SDK with Carthage, add the following line to your `Cartfile`.
 ```
-github "SnapEngage/mobilesdk-ios"
+github "SnapEngage/mobilesdk-ios" ~> 1.0
 ```
 
 
