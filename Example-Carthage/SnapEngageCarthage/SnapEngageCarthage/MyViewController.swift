@@ -9,6 +9,7 @@ import UIKit
 import SnapEngageSDK
 
 class MyViewController: UIViewController {
+    
 
     @IBOutlet weak var SnapEngageChat: ChatView!
     @IBOutlet weak var textView: UITextView!
